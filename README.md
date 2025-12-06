@@ -17,3 +17,6 @@ Master SQL for data analysis and database management
 - Complex Queries
 - Query Optimization
 - Data Warehousing Concepts
+
+## 📊 Data Sources
+[Going to Data Source](https://drive.google.com/drive/folders/1C0iLsB4DEHyJ6_699DufslW5XzbfNQ6h?usp=sharing)
